@@ -1,0 +1,40 @@
+.bg-header {
+    background: url('images/bg_header.jpg') no-repeat;
+    background-size: cover;
+}
+.bg-photo{
+	background: url('images/bg_appareil_photo.jpg') no-repeat center center;
+	background-size: cover;
+}
+
+.bg-info{
+	opacity: 0.4;
+}
+
+.bg-nuage {
+    background: url('images/bg_nuage.jpg') no-repeat center center;
+    background-size: cover;
+}
+.bg-newsletter{
+	background: url('images/bg_newsletter.jpg') no-repeat center center;
+	background-size: cover;
+}
+a{
+	text-decoration-line: none;
+}
+.logo{
+	width: 50%;
+}
+#photos{
+	background: #C0C0C0;
+}
+
+
+.crayon {
+    display: block;
+	z-index: 10;
+	width: 6.25%;
+    max-width: 30px;
+    position: relative;
+    transform: translate3d(0,0,0);
+    font-size: 24px;}
